@@ -23,7 +23,14 @@ Student 2 Number: C21459946
 
 # How it works
 
+# Visual Inspiration 
+
+# Time Allocation
+
+# Assignment Breakdown
+
 # What I am most proud of in the assignment
+
 
 # Markdown Tutorial
 
