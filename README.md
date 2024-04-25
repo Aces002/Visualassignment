@@ -92,6 +92,9 @@ This is an image using an absolute URL:
 ![visual2](https://github.com/Aces002/Visualassignment/assets/77772130/8cd23b4e-de16-42a6-85e7-041350812ceb)
 
 This is an image using an absolute URL:
+
+![visual3](https://github.com/Aces002/Visualassignment/assets/77772130/97d89b82-7bcf-45af-8ded-d60e444269cc)
+
 This is an image using an absolute URL:
 This is an image using an absolute URL:
 This is an image using an absolute URL:
