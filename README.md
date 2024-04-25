@@ -83,27 +83,27 @@ public void render()
 
 
 
-This is an image using an absolute URL:
+This is Visual 1. When you press key 1 this Visual Amp apears on the screen:
 
 ![visual1](https://github.com/Aces002/Visualassignment/assets/77772130/2b6d0359-2f0d-49bd-8363-53428cfd92a9)
 
-This is an image using an absolute URL:
+This is Visual 1. When you press key 1 this Visual Amp apears on the screen:
 
 ![visual2](https://github.com/Aces002/Visualassignment/assets/77772130/8cd23b4e-de16-42a6-85e7-041350812ceb)
 
-This is an image using an absolute URL:
+This is Visual 1. When you press key 1 this Visual Amp apears on the screen:
 
 ![visual3](https://github.com/Aces002/Visualassignment/assets/77772130/97d89b82-7bcf-45af-8ded-d60e444269cc)
 
-This is an image using an absolute URL:
+This is Visual 1. When you press key 1 this Visual Amp apears on the screen:
 
 ![visual4](https://github.com/Aces002/Visualassignment/assets/77772130/7b33c522-6967-4678-8fff-ce7d4e162581)
 
-This is an image using an absolute URL:
+This is Visual 1. When you press key 1 this Visual Amp apears on the screen:
 
 ![visual5](https://github.com/Aces002/Visualassignment/assets/77772130/fa763031-93c8-474f-ba11-5850a8d2a611)
 
-This is an image using an absolute URL:
+This is Visual 1. When you press key 1 this Visual Amp apears on the screen:
 
 ![visual6](https://github.com/Aces002/Visualassignment/assets/77772130/576787be-00e6-4646-8800-dfa16d6e5843)
 
