@@ -84,9 +84,13 @@ public void render()
 
 
 This is an image using an absolute URL:
+
 ![visual1](https://github.com/Aces002/Visualassignment/assets/77772130/2b6d0359-2f0d-49bd-8363-53428cfd92a9)
+
 This is an image using an absolute URL:
+
 ![visual2](https://github.com/Aces002/Visualassignment/assets/77772130/8cd23b4e-de16-42a6-85e7-041350812ceb)
+
 This is an image using an absolute URL:
 This is an image using an absolute URL:
 This is an image using an absolute URL:
