@@ -100,9 +100,12 @@ This is an image using an absolute URL:
 ![visual4](https://github.com/Aces002/Visualassignment/assets/77772130/7b33c522-6967-4678-8fff-ce7d4e162581)
 
 This is an image using an absolute URL:
+
 ![visual5](https://github.com/Aces002/Visualassignment/assets/77772130/fa763031-93c8-474f-ba11-5850a8d2a611)
 
 This is an image using an absolute URL:
+
+![visual6](https://github.com/Aces002/Visualassignment/assets/77772130/576787be-00e6-4646-8800-dfa16d6e5843)
 
 This is a youtube video:
 
