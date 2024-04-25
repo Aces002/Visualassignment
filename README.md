@@ -79,15 +79,14 @@ public void render()
 }
 ```
 
-This is an image using a relative URL:
 
-![An image](images/p8.png)
-![An image](https://tudublin-my.sharepoint.com/:i:/r/personal/c21459946_mytudublin_ie/Documents/Pictures/visual3.png?csf=1&web=1&e=eUdZ2c)
+
+
 
 This is an image using an absolute URL:
 ![visual1](https://github.com/Aces002/Visualassignment/assets/77772130/2b6d0359-2f0d-49bd-8363-53428cfd92a9)
-
-![A different image](https://bryanduggandotorg.files.wordpress.com/2019/02/infinite-forms-00045.png?w=595&h=&zoom=2)
+This is an image using an absolute URL:
+![visual2](https://github.com/Aces002/Visualassignment/assets/77772130/8cd23b4e-de16-42a6-85e7-041350812ceb)
 
 This is a youtube video:
 
