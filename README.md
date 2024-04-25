@@ -9,11 +9,13 @@ Student 2 Name: Grace Ojo
 Student 2 Number: C21459946
 
 ## Instructions
-- Fork this repository and use it a starter project for your assignment
-- Create a new package named your student number and put all your code in this package.
-- You should start by creating a subclass of ie.tudublin.Visual
-- There is an example visualiser called MyVisual in the example package
-- Check out the WaveForm and AudioBandsVisual for examples of how to call the Processing functions from other classes that are not subclasses of PApplet
+
+- Fork this repository
+- Use starter project for assignment
+- Create a new package and put all your code in this package.
+- Start by creating a subclass of ie.tudublin.Visual
+- Visualiser called MyVisual is an example package
+- The WaveForm and AudioBandsVisual show how to call the Processing functions from other classes that are not subclasses of PApplet
 
 # Description of the assignment
 
