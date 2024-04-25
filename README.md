@@ -82,6 +82,7 @@ public void render()
 This is an image using a relative URL:
 
 ![An image](images/p8.png)
+![An image](https://tudublin-my.sharepoint.com/:i:/r/personal/c21459946_mytudublin_ie/Documents/Pictures/visual3.png?csf=1&web=1&e=eUdZ2c)
 
 This is an image using an absolute URL:
 
