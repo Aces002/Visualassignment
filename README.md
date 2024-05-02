@@ -112,7 +112,7 @@ This is Visual 6. When you press key 6 this Visual Swirl apears on the screen:
 This is a youtube video:
 
 [![YouTube](http://img.youtube.com/vi/J2kHSSFA4NU/0.jpg)](https://www.youtube.com/watch?v=J2kHSSFA4NU)
-[![Youtube](![image](https://github.com/Aces002/Visualassignment/assets/77772130/bde42255-a38a-402e-b0ea-3dd66affd00e)(https://youtu.be/Q9Rah3TwUrI?si=x1-hc4QCo53GizZU)]
+[![Youtube](https://github.com/Aces002/Visualassignment/assets/77772130/bde42255-a38a-402e-b0ea-3dd66affd00e)](https://youtu.be/Q9Rah3TwUrI?si=x1-hc4QCo53GizZU)
 
 
 This is a table:
