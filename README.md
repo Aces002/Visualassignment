@@ -19,6 +19,8 @@ Student 2 Number: C21459946
 
 # Description of the assignment
 
+We crafted an advanced multimedia project using Java and Processing. It combines moving responsive visuals with audio files. By examining the rhythm and sound frequencies, it alters the visual effects accordingly. The result is an engaging and captivating audio visual experience.
+
 # Instructions
 
 # How it works
